@@ -1,0 +1,60 @@
+{
+  "version": "1.0",
+  "caps": [
+    {
+      "type": "text",
+      "name": "appium:deviceName",
+      "value": "xd"
+    },
+    {
+      "type": "text",
+      "name": "appium:automationName",
+      "value": "UiAutomator2"
+    },
+    {
+      "type": "text",
+      "name": "appium:deviceName",
+      "value": "emulator-5554"
+    },
+    {
+      "type": "text",
+      "name": "appium:platformVersion",
+      "value": "11"
+    },
+    {
+      "type": "text",
+      "name": "appium:app",
+      "value": "D:\\Projects\\Appium\\Appium\\app\\TheApp.apk"
+    },
+    {
+      "type": "text",
+      "name": "platformName",
+      "value": "Android"
+    }
+  ],
+  "server": {
+    "local": {},
+    "remote": {
+      "hostname": "127.0.0.1",
+      "port": "4723"
+    },
+    "sauce": {
+      "dataCenter": "us-west-1"
+    },
+    "headspin": {},
+    "browserstack": {},
+    "lambdatest": {},
+    "advanced": {},
+    "bitbar": {},
+    "kobiton": {},
+    "perfecto": {},
+    "pcloudy": {},
+    "testingbot": {},
+    "experitest": {},
+    "roboticmobi": {},
+    "remotetestkit": {},
+    "mobitru": {}
+  },
+  "serverType": "remote",
+  "visibleProviders": []
+}
