@@ -39,6 +39,5 @@ public class L01_AppiumSession {
 
 
     @After
-    public void tearDown() {
-        System.out.println("xd");
+    public void tearDown()
     }}
