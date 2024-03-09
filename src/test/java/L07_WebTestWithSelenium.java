@@ -32,7 +32,7 @@ public class L07_WebTestWithSelenium {
 
         driver = new AppiumDriver(new URL(APPIUM), cap);
 
-        System.out.println("Emulator is ON");
+        System.out.println("Emulator is ON!");
     }
 
     @Test
