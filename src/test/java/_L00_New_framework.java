@@ -20,7 +20,7 @@ public class _L00_New_framework {
     protected static DriverManager driverManager;
     protected AppiumDriver driver;
     //protected ICommon common;
-    //protected MainView mainView;
+    //protected MainView mainView; potem
 
     @BeforeClass
     public static void beforeSuite(){
